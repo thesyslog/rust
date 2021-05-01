@@ -1,0 +1,1 @@
+/media/jipg/Datos_SSD1T/github_personal/thesyslog/rust/books/official/Getting-Started/hello_cargo/target/debug/hello_cargo: /media/jipg/Datos_SSD1T/github_personal/thesyslog/rust/books/official/Getting-Started/hello_cargo/src/main.rs
